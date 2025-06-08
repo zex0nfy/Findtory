@@ -21,7 +21,7 @@
 
 ```bash
 git clone https://github.com/zex0nfy/Findtory.git
-cd findtory
+cd Findtory
 pip install -r requirements.txt
 python setup.py install
 ```
